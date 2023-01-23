@@ -37,3 +37,4 @@ jobs:
 
       - name: Print Happy Message for CI finish
         run: echo "CI Pipeline part finished successfully!"
+
