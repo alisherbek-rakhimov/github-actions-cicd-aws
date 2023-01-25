@@ -31,3 +31,9 @@ def print_subpath(subpath):
 if __name__ == '__main__':
     # app.debug = True
     application.run()
+
+my_query = '''
+SELECT * FROM A WHERE b = 2
+'''
+
+print(my_query)

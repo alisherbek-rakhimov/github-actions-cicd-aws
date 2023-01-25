@@ -1,1 +1,2 @@
 Flask==2.2.2
+flake8-sql
